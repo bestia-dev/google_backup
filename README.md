@@ -3,10 +3,10 @@
 **Export data from all Google services and backup to local disk (2023-08)**  
 ***date: 2023-08-11 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/google_backup)***  
 
-![status](https://img.shields.io/badge/maintained-green) 
-![status](https://img.shields.io/badge/ready_for_use-green) 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bestia-dev/dropbox_backup_to_external_disk/blob/main/LICENSE) 
-![Hits](https://bestia.dev/webpage_hit_counter/get_svg_image/000.svg) 
+ ![maintained](https://img.shields.io/badge/maintained-green)
+ ![ready_for_use](https://img.shields.io/badge/ready_for_use-green)
+ [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bestia-dev/dropbox_backup_to_external_disk/blob/main/LICENSE)
+ ![google_backup](https://bestia.dev/webpage_hit_counter/get_svg_image/1081163093.svg)
 
 My digital identity is created around Gmail. Just like most of the people I know.  
 So if Google goes out of business or suddenly disables my account I am really in a bad place.  
